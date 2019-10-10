@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">MyApp sysc3010</string>
+    <string name="edit_message">Enter Message</string>
+    <string name="Button_send">Send</string>
+</resources>
